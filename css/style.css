@@ -62,3 +62,26 @@ height: 800px;
   height: 400px;
   object-fit: cover;
 }
+.footer{
+  background: #152F4F;
+  color:white;
+}
+ul{
+  list-style-type: none
+}
+li a{
+      color: white;
+      transition: color .2s;}
+      a:hover{
+        text-decoration:none;
+        color:#4180CB;
+        }
+   
+    i{font-size: 25px;}
+    a{
+      color:white;
+      transition: color .2s;}
+      a:hover{color:#4180CB}
+   
+    i{font-size: 18px;}
+  .copyright p{border-top:1px solid rgba(255,255,255,.1);} 
